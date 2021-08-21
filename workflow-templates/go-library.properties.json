@@ -1,0 +1,6 @@
+{
+  "name": "Setare Library Standard",
+  "description": "Pipeline for lint, gosec and unit tests for libraries",
+  "iconName": "go",
+  "categories": ["Go"]
+}
