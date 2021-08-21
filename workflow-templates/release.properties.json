@@ -1,0 +1,4 @@
+{
+  "name": "Setare Auto Release",
+  "description": "Pipeline that create releases based on the commit messages (conventional commits)"
+}
